@@ -1,6 +1,6 @@
 {
-  "name": "Pro Calculators",
-  "short_name": "Comercial Unidas",
+  "name": "Pro Calculators By ARB",
+  "short_name": "Pro Calculators",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1a1a1e",
